@@ -1,7 +1,7 @@
-# MT-ML-OSM
+### MT-ML-OSM
 
-Using Machine Learning to improve the Metamorphic Tester for OpenStreetMap
-Developed at the University Complutense of Madrid
+#### Using Machine Learning to improve the Metamorphic Tester for OpenStreetMap
+#### Developed at the University Complutense of Madrid
 
 In order to use our method, please, follow these instructions:
 
